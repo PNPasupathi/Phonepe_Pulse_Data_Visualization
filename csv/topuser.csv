@@ -1,0 +1,601 @@
+,Name,UserRegister,Type,Year,Quartile
+0,maharashtra,6106994,state,2018,1
+1,uttar pradesh,4694250,state,2018,1
+2,karnataka,3717763,state,2018,1
+3,andhra pradesh,3336450,state,2018,1
+4,telangana,3315560,state,2018,1
+5,rajasthan,3158202,state,2018,1
+6,gujarat,2690048,state,2018,1
+7,west bengal,2604789,state,2018,1
+8,madhya pradesh,2553603,state,2018,1
+9,bihar,2133804,state,2018,1
+10,maharashtra,8222371,state,2018,2
+11,uttar pradesh,6442554,state,2018,2
+12,karnataka,5030665,state,2018,2
+13,andhra pradesh,4402540,state,2018,2
+14,telangana,4260115,state,2018,2
+15,rajasthan,4212964,state,2018,2
+16,west bengal,3833795,state,2018,2
+17,gujarat,3565825,state,2018,2
+18,madhya pradesh,3441662,state,2018,2
+19,bihar,3005872,state,2018,2
+20,maharashtra,10435033,state,2018,3
+21,uttar pradesh,8096483,state,2018,3
+22,karnataka,6372649,state,2018,3
+23,andhra pradesh,5427617,state,2018,3
+24,rajasthan,5175453,state,2018,3
+25,telangana,5138501,state,2018,3
+26,west bengal,4851740,state,2018,3
+27,gujarat,4433183,state,2018,3
+28,madhya pradesh,4309309,state,2018,3
+29,tamil nadu,3900177,state,2018,3
+30,maharashtra,13381602,state,2018,4
+31,uttar pradesh,10341964,state,2018,4
+32,karnataka,8315802,state,2018,4
+33,andhra pradesh,6857409,state,2018,4
+34,telangana,6529679,state,2018,4
+35,rajasthan,6358738,state,2018,4
+36,west bengal,6279278,state,2018,4
+37,gujarat,5579040,state,2018,4
+38,madhya pradesh,5365442,state,2018,4
+39,tamil nadu,5199878,state,2018,4
+40,maharashtra,16284451,state,2019,1
+41,uttar pradesh,12458661,state,2019,1
+42,karnataka,10266174,state,2019,1
+43,andhra pradesh,8283019,state,2019,1
+44,telangana,7963425,state,2019,1
+45,rajasthan,7712204,state,2019,1
+46,west bengal,7449425,state,2019,1
+47,gujarat,6652536,state,2019,1
+48,madhya pradesh,6414403,state,2019,1
+49,tamil nadu,6296303,state,2019,1
+50,maharashtra,18776975,state,2019,2
+51,uttar pradesh,14316349,state,2019,2
+52,karnataka,11968087,state,2019,2
+53,andhra pradesh,9389003,state,2019,2
+54,telangana,9046007,state,2019,2
+55,rajasthan,8783935,state,2019,2
+56,west bengal,8612795,state,2019,2
+57,gujarat,7574645,state,2019,2
+58,tamil nadu,7429609,state,2019,2
+59,madhya pradesh,7301172,state,2019,2
+60,maharashtra,21313081,state,2019,3
+61,uttar pradesh,16044607,state,2019,3
+62,karnataka,13635075,state,2019,3
+63,andhra pradesh,10458693,state,2019,3
+64,telangana,10090557,state,2019,3
+65,rajasthan,9797304,state,2019,3
+66,west bengal,9643222,state,2019,3
+67,gujarat,8429299,state,2019,3
+68,tamil nadu,8428835,state,2019,3
+69,madhya pradesh,8180664,state,2019,3
+70,maharashtra,23745297,state,2019,4
+71,uttar pradesh,17949542,state,2019,4
+72,karnataka,15385416,state,2019,4
+73,andhra pradesh,11757883,state,2019,4
+74,telangana,11220691,state,2019,4
+75,rajasthan,10925031,state,2019,4
+76,west bengal,10885058,state,2019,4
+77,tamil nadu,9620493,state,2019,4
+78,gujarat,9323799,state,2019,4
+79,madhya pradesh,9165241,state,2019,4
+80,maharashtra,26168390,state,2020,1
+81,uttar pradesh,20136256,state,2020,1
+82,karnataka,17016980,state,2020,1
+83,andhra pradesh,13022060,state,2020,1
+84,telangana,12306860,state,2020,1
+85,rajasthan,12142053,state,2020,1
+86,west bengal,11960822,state,2020,1
+87,tamil nadu,10872368,state,2020,1
+88,gujarat,10259843,state,2020,1
+89,madhya pradesh,10151371,state,2020,1
+90,maharashtra,28765086,state,2020,2
+91,uttar pradesh,22498519,state,2020,2
+92,karnataka,18655366,state,2020,2
+93,andhra pradesh,14319675,state,2020,2
+94,rajasthan,13563201,state,2020,2
+95,telangana,13378191,state,2020,2
+96,west bengal,13222022,state,2020,2
+97,tamil nadu,12150786,state,2020,2
+98,gujarat,11392657,state,2020,2
+99,madhya pradesh,11374423,state,2020,2
+100,maharashtra,31409513,state,2020,3
+101,uttar pradesh,24838116,state,2020,3
+102,karnataka,20487550,state,2020,3
+103,andhra pradesh,15692405,state,2020,3
+104,rajasthan,14969412,state,2020,3
+105,telangana,14590882,state,2020,3
+106,west bengal,14448366,state,2020,3
+107,tamil nadu,13643451,state,2020,3
+108,madhya pradesh,12564224,state,2020,3
+109,gujarat,12467847,state,2020,3
+110,maharashtra,34432631,state,2020,4
+111,uttar pradesh,27249134,state,2020,4
+112,karnataka,22400182,state,2020,4
+113,andhra pradesh,17076565,state,2020,4
+114,rajasthan,16329494,state,2020,4
+115,telangana,15927797,state,2020,4
+116,west bengal,15662093,state,2020,4
+117,tamil nadu,15357586,state,2020,4
+118,madhya pradesh,13737947,state,2020,4
+119,gujarat,13605203,state,2020,4
+120,maharashtra,37077537,state,2021,1
+121,uttar pradesh,29482075,state,2021,1
+122,karnataka,24095832,state,2021,1
+123,andhra pradesh,18363733,state,2021,1
+124,rajasthan,17661088,state,2021,1
+125,telangana,17149069,state,2021,1
+126,west bengal,16808799,state,2021,1
+127,tamil nadu,16632608,state,2021,1
+128,madhya pradesh,14839427,state,2021,1
+129,gujarat,14670126,state,2021,1
+130,maharashtra,39664697,state,2021,2
+131,uttar pradesh,31651894,state,2021,2
+132,karnataka,25751023,state,2021,2
+133,andhra pradesh,19620905,state,2021,2
+134,rajasthan,18980985,state,2021,2
+135,telangana,18306880,state,2021,2
+136,west bengal,17979979,state,2021,2
+137,tamil nadu,17804542,state,2021,2
+138,madhya pradesh,15940935,state,2021,2
+139,gujarat,15735981,state,2021,2
+140,maharashtra,42581217,state,2021,3
+141,uttar pradesh,34151882,state,2021,3
+142,karnataka,27614221,state,2021,3
+143,andhra pradesh,21059898,state,2021,3
+144,rajasthan,20499465,state,2021,3
+145,telangana,19615278,state,2021,3
+146,west bengal,19323278,state,2021,3
+147,tamil nadu,19127440,state,2021,3
+148,madhya pradesh,17210233,state,2021,3
+149,gujarat,16946761,state,2021,3
+150,maharashtra,45482506,state,2021,4
+151,uttar pradesh,36617655,state,2021,4
+152,karnataka,29459646,state,2021,4
+153,andhra pradesh,22489029,state,2021,4
+154,rajasthan,21977202,state,2021,4
+155,telangana,20917649,state,2021,4
+156,west bengal,20644527,state,2021,4
+157,tamil nadu,20433142,state,2021,4
+158,madhya pradesh,18456243,state,2021,4
+159,gujarat,18139201,state,2021,4
+160,maharashtra,48227630,state,2022,1
+161,uttar pradesh,38999692,state,2022,1
+162,karnataka,31200349,state,2022,1
+163,andhra pradesh,23857951,state,2022,1
+164,rajasthan,23398857,state,2022,1
+165,telangana,22150612,state,2022,1
+166,west bengal,21919787,state,2022,1
+167,tamil nadu,21667020,state,2022,1
+168,madhya pradesh,19656147,state,2022,1
+169,gujarat,19265314,state,2022,1
+170,maharashtra,50802786,state,2022,2
+171,uttar pradesh,41247289,state,2022,2
+172,karnataka,32831447,state,2022,2
+173,andhra pradesh,25157264,state,2022,2
+174,rajasthan,24716181,state,2022,2
+175,telangana,23314363,state,2022,2
+176,west bengal,23124388,state,2022,2
+177,tamil nadu,22829720,state,2022,2
+178,madhya pradesh,20766417,state,2022,2
+179,gujarat,20321596,state,2022,2
+180,maharashtra,53432602,state,2022,3
+181,uttar pradesh,43537920,state,2022,3
+182,karnataka,34493994,state,2022,3
+183,andhra pradesh,26496330,state,2022,3
+184,rajasthan,26042948,state,2022,3
+185,telangana,24506111,state,2022,3
+186,west bengal,24372048,state,2022,3
+187,tamil nadu,24019964,state,2022,3
+188,madhya pradesh,21884220,state,2022,3
+189,gujarat,21394721,state,2022,3
+190,maharashtra,55954028,state,2022,4
+191,uttar pradesh,45648650,state,2022,4
+192,karnataka,36081698,state,2022,4
+193,andhra pradesh,27778016,state,2022,4
+194,rajasthan,27255927,state,2022,4
+195,telangana,25656381,state,2022,4
+196,west bengal,25536381,state,2022,4
+197,tamil nadu,25136112,state,2022,4
+198,madhya pradesh,22913924,state,2022,4
+199,gujarat,22412353,state,2022,4
+0,bengaluru urban,1922368,district,2018,1
+1,pune,1211643,district,2018,1
+2,jaipur,900773,district,2018,1
+3,mumbai suburban,719300,district,2018,1
+4,hyderabad,655175,district,2018,1
+5,rangareddy,635175,district,2018,1
+6,thane,631864,district,2018,1
+7,ahmadabad,572811,district,2018,1
+8,medchal malkajgiri,549429,district,2018,1
+9,visakhapatnam,497187,district,2018,1
+10,bengaluru urban,2553312,district,2018,2
+11,pune,1592293,district,2018,2
+12,jaipur,1182983,district,2018,2
+13,mumbai suburban,957633,district,2018,2
+14,thane,861292,district,2018,2
+15,hyderabad,842483,district,2018,2
+16,rangareddy,804959,district,2018,2
+17,ahmadabad,751746,district,2018,2
+18,medchal malkajgiri,696211,district,2018,2
+19,surat,652372,district,2018,2
+20,bengaluru urban,3167597,district,2018,3
+21,pune,1974138,district,2018,3
+22,jaipur,1438305,district,2018,3
+23,mumbai suburban,1218632,district,2018,3
+24,thane,1104206,district,2018,3
+25,hyderabad,1024241,district,2018,3
+26,rangareddy,963186,district,2018,3
+27,ahmadabad,919252,district,2018,3
+28,medchal malkajgiri,828425,district,2018,3
+29,surat,808005,district,2018,3
+30,bengaluru urban,4126734,district,2018,4
+31,pune,2498852,district,2018,4
+32,jaipur,1733893,district,2018,4
+33,mumbai suburban,1578487,district,2018,4
+34,thane,1473811,district,2018,4
+35,hyderabad,1336872,district,2018,4
+36,rangareddy,1217664,district,2018,4
+37,ahmadabad,1212636,district,2018,4
+38,medchal malkajgiri,1056739,district,2018,4
+39,surat,998807,district,2018,4
+40,bengaluru urban,5003207,district,2019,1
+41,pune,3038402,district,2019,1
+42,jaipur,2060175,district,2019,1
+43,mumbai suburban,1901210,district,2019,1
+44,thane,1834051,district,2019,1
+45,hyderabad,1638436,district,2019,1
+46,rangareddy,1470874,district,2019,1
+47,ahmadabad,1450100,district,2019,1
+48,medchal malkajgiri,1279531,district,2019,1
+49,surat,1180819,district,2019,1
+50,bengaluru urban,5694165,district,2019,2
+51,pune,3514081,district,2019,2
+52,jaipur,2290462,district,2019,2
+53,mumbai suburban,2151657,district,2019,2
+54,thane,2118406,district,2019,2
+55,hyderabad,1856926,district,2019,2
+56,ahmadabad,1656341,district,2019,2
+57,rangareddy,1651300,district,2019,2
+58,medchal malkajgiri,1428880,district,2019,2
+59,surat,1338584,district,2019,2
+60,bengaluru urban,6383771,district,2019,3
+61,pune,4004991,district,2019,3
+62,jaipur,2520933,district,2019,3
+63,mumbai suburban,2407754,district,2019,3
+64,thane,2396815,district,2019,3
+65,hyderabad,2071673,district,2019,3
+66,ahmadabad,1848860,district,2019,3
+67,rangareddy,1826019,district,2019,3
+68,medchal malkajgiri,1572320,district,2019,3
+69,surat,1481391,district,2019,3
+70,bengaluru urban,7016836,district,2019,4
+71,pune,4416899,district,2019,4
+72,jaipur,2746860,district,2019,4
+73,thane,2638051,district,2019,4
+74,mumbai suburban,2630360,district,2019,4
+75,hyderabad,2283903,district,2019,4
+76,ahmadabad,2015947,district,2019,4
+77,rangareddy,2001437,district,2019,4
+78,medchal malkajgiri,1714832,district,2019,4
+79,north twenty four parganas,1638605,district,2019,4
+80,bengaluru urban,7564577,district,2020,1
+81,pune,4802397,district,2020,1
+82,jaipur,2966508,district,2020,1
+83,thane,2878073,district,2020,1
+84,mumbai suburban,2843378,district,2020,1
+85,hyderabad,2483843,district,2020,1
+86,ahmadabad,2185983,district,2020,1
+87,rangareddy,2166829,district,2020,1
+88,medchal malkajgiri,1845599,district,2020,1
+89,north twenty four parganas,1789973,district,2020,1
+90,bengaluru urban,8028070,district,2020,2
+91,pune,5144688,district,2020,2
+92,jaipur,3182014,district,2020,2
+93,thane,3135101,district,2020,2
+94,mumbai suburban,3060916,district,2020,2
+95,hyderabad,2653534,district,2020,2
+96,ahmadabad,2384154,district,2020,2
+97,rangareddy,2313748,district,2020,2
+98,north twenty four parganas,1966125,district,2020,2
+99,medchal malkajgiri,1963353,district,2020,2
+100,bengaluru urban,8611452,district,2020,3
+101,pune,5546002,district,2020,3
+102,jaipur,3433167,district,2020,3
+103,thane,3401853,district,2020,3
+104,mumbai suburban,3304696,district,2020,3
+105,hyderabad,2875965,district,2020,3
+106,ahmadabad,2580178,district,2020,3
+107,rangareddy,2495699,district,2020,3
+108,north twenty four parganas,2143943,district,2020,3
+109,medchal malkajgiri,2111567,district,2020,3
+110,bengaluru urban,9286243,district,2020,4
+111,pune,6033615,district,2020,4
+112,thane,3727358,district,2020,4
+113,jaipur,3679874,district,2020,4
+114,mumbai suburban,3609970,district,2020,4
+115,hyderabad,3142385,district,2020,4
+116,ahmadabad,2787991,district,2020,4
+117,rangareddy,2704868,district,2020,4
+118,north twenty four parganas,2321888,district,2020,4
+119,medchal malkajgiri,2282695,district,2020,4
+120,bengaluru urban,9955387,district,2021,1
+121,pune,6481971,district,2021,1
+122,thane,4014464,district,2021,1
+123,jaipur,3951866,district,2021,1
+124,mumbai suburban,3886500,district,2021,1
+125,hyderabad,3379663,district,2021,1
+126,ahmadabad,2999575,district,2021,1
+127,rangareddy,2906635,district,2021,1
+128,north twenty four parganas,2491076,district,2021,1
+129,surat,2458596,district,2021,1
+130,bengaluru urban,10604609,district,2021,2
+131,pune,6915820,district,2021,2
+132,thane,4290066,district,2021,2
+133,jaipur,4226231,district,2021,2
+134,mumbai suburban,4151227,district,2021,2
+135,hyderabad,3598337,district,2021,2
+136,ahmadabad,3209841,district,2021,2
+137,rangareddy,3097973,district,2021,2
+138,north twenty four parganas,2660664,district,2021,2
+139,surat,2633443,district,2021,2
+140,bengaluru urban,11321012,district,2021,3
+141,pune,7398336,district,2021,3
+142,thane,4597394,district,2021,3
+143,jaipur,4534297,district,2021,3
+144,mumbai suburban,4444495,district,2021,3
+145,hyderabad,3839513,district,2021,3
+146,ahmadabad,3445024,district,2021,3
+147,rangareddy,3310906,district,2021,3
+148,north twenty four parganas,2852030,district,2021,3
+149,surat,2830392,district,2021,3
+150,bengaluru urban,12038775,district,2021,4
+151,pune,7880431,district,2021,4
+152,thane,4906492,district,2021,4
+153,jaipur,4841883,district,2021,4
+154,mumbai suburban,4740546,district,2021,4
+155,hyderabad,4081185,district,2021,4
+156,ahmadabad,3679243,district,2021,4
+157,rangareddy,3523496,district,2021,4
+158,north twenty four parganas,3043008,district,2021,4
+159,surat,3026960,district,2021,4
+160,bengaluru urban,12707664,district,2022,1
+161,pune,8331582,district,2022,1
+162,thane,5196050,district,2022,1
+163,jaipur,5133527,district,2022,1
+164,mumbai suburban,5017556,district,2022,1
+165,hyderabad,4306136,district,2022,1
+166,ahmadabad,3897869,district,2022,1
+167,rangareddy,3722676,district,2022,1
+168,north twenty four parganas,3224459,district,2022,1
+169,surat,3210535,district,2022,1
+170,bengaluru urban,13342916,district,2022,2
+171,pune,8757249,district,2022,2
+172,thane,5471749,district,2022,2
+173,jaipur,5409763,district,2022,2
+174,mumbai suburban,5281053,district,2022,2
+175,hyderabad,4519625,district,2022,2
+176,ahmadabad,4105172,district,2022,2
+177,rangareddy,3911372,district,2022,2
+178,north twenty four parganas,3397791,district,2022,2
+179,surat,3385398,district,2022,2
+180,bengaluru urban,13997602,district,2022,3
+181,pune,9194074,district,2022,3
+182,thane,5757165,district,2022,3
+183,jaipur,5696726,district,2022,3
+184,mumbai suburban,5555095,district,2022,3
+185,hyderabad,4739891,district,2022,3
+186,ahmadabad,4319512,district,2022,3
+187,rangareddy,4105107,district,2022,3
+188,north twenty four parganas,3578500,district,2022,3
+189,surat,3567767,district,2022,3
+190,bengaluru urban,14654455,district,2022,4
+191,pune,9622338,district,2022,4
+192,thane,6042267,district,2022,4
+193,jaipur,5975863,district,2022,4
+194,mumbai suburban,5831539,district,2022,4
+195,hyderabad,4962214,district,2022,4
+196,ahmadabad,4530853,district,2022,4
+197,rangareddy,4296707,district,2022,4
+198,north twenty four parganas,3755017,district,2022,4
+199,surat,3747780,district,2022,4
+0,201301,114625,pincode,2018,1
+1,500072,105012,pincode,2018,1
+2,560068,98487,pincode,2018,1
+3,110059,95496,pincode,2018,1
+4,110092,83600,pincode,2018,1
+5,122001,82656,pincode,2018,1
+6,560037,75304,pincode,2018,1
+7,395006,72275,pincode,2018,1
+8,800001,71092,pincode,2018,1
+9,302012,68098,pincode,2018,1
+10,201301,151073,pincode,2018,2
+11,500072,129543,pincode,2018,2
+12,560068,128921,pincode,2018,2
+13,110059,124901,pincode,2018,2
+14,110092,108175,pincode,2018,2
+15,122001,107275,pincode,2018,2
+16,800001,94711,pincode,2018,2
+17,395006,94500,pincode,2018,2
+18,560037,93771,pincode,2018,2
+19,302012,89071,pincode,2018,2
+20,201301,188664,pincode,2018,3
+21,110059,156028,pincode,2018,3
+22,500072,152034,pincode,2018,3
+23,560068,151862,pincode,2018,3
+24,110092,136676,pincode,2018,3
+25,122001,130847,pincode,2018,3
+26,395006,113391,pincode,2018,3
+27,302012,107088,pincode,2018,3
+28,560037,106572,pincode,2018,3
+29,800001,106255,pincode,2018,3
+30,201301,250205,pincode,2018,4
+31,110059,206537,pincode,2018,4
+32,560068,201605,pincode,2018,4
+33,110092,177133,pincode,2018,4
+34,500072,175163,pincode,2018,4
+35,122001,163556,pincode,2018,4
+36,560037,137280,pincode,2018,4
+37,800001,134254,pincode,2018,4
+38,110086,133412,pincode,2018,4
+39,110085,132600,pincode,2018,4
+40,201301,301260,pincode,2019,1
+41,110059,246566,pincode,2019,1
+42,560068,237280,pincode,2019,1
+43,500072,221180,pincode,2019,1
+44,110092,206805,pincode,2019,1
+45,122001,194366,pincode,2019,1
+46,110086,158267,pincode,2019,1
+47,560078,157977,pincode,2019,1
+48,395006,157558,pincode,2019,1
+49,560076,157367,pincode,2019,1
+50,201301,336709,pincode,2019,2
+51,110059,274593,pincode,2019,2
+52,560068,263531,pincode,2019,2
+53,500072,242007,pincode,2019,2
+54,110092,228546,pincode,2019,2
+55,122001,217913,pincode,2019,2
+56,421302,182371,pincode,2019,2
+57,395006,180042,pincode,2019,2
+58,560078,178837,pincode,2019,2
+59,110086,177199,pincode,2019,2
+60,201301,369425,pincode,2019,3
+61,110059,300007,pincode,2019,3
+62,560068,289417,pincode,2019,3
+63,500072,261019,pincode,2019,3
+64,110092,248727,pincode,2019,3
+65,122001,239679,pincode,2019,3
+66,421302,208109,pincode,2019,3
+67,395006,198132,pincode,2019,3
+68,110086,194575,pincode,2019,3
+69,800001,194197,pincode,2019,3
+70,201301,398548,pincode,2019,4
+71,110059,320535,pincode,2019,4
+72,560068,313673,pincode,2019,4
+73,500072,279498,pincode,2019,4
+74,110092,264380,pincode,2019,4
+75,122001,258880,pincode,2019,4
+76,421302,243170,pincode,2019,4
+77,560078,218317,pincode,2019,4
+78,395006,214322,pincode,2019,4
+79,560076,211683,pincode,2019,4
+80,201301,425915,pincode,2020,1
+81,110059,342152,pincode,2020,1
+82,560068,334481,pincode,2020,1
+83,500072,296003,pincode,2020,1
+84,110092,280039,pincode,2020,1
+85,122001,277400,pincode,2020,1
+86,421302,270275,pincode,2020,1
+87,560078,234102,pincode,2020,1
+88,395006,230047,pincode,2020,1
+89,110086,226703,pincode,2020,1
+90,201301,445271,pincode,2020,2
+91,110059,365614,pincode,2020,2
+92,560068,351484,pincode,2020,2
+93,500072,309469,pincode,2020,2
+94,421302,298762,pincode,2020,2
+95,110092,295000,pincode,2020,2
+96,122001,293479,pincode,2020,2
+97,560078,247869,pincode,2020,2
+98,110086,246312,pincode,2020,2
+99,395006,245129,pincode,2020,2
+100,201301,472490,pincode,2020,3
+101,110059,393571,pincode,2020,3
+102,560068,373446,pincode,2020,3
+103,421302,328833,pincode,2020,3
+104,500072,328018,pincode,2020,3
+105,110092,314384,pincode,2020,3
+106,122001,314031,pincode,2020,3
+107,110086,267186,pincode,2020,3
+108,560078,265627,pincode,2020,3
+109,121004,261230,pincode,2020,3
+110,201301,504506,pincode,2020,4
+111,110059,423149,pincode,2020,4
+112,560068,399638,pincode,2020,4
+113,421302,365506,pincode,2020,4
+114,500072,350832,pincode,2020,4
+115,122001,336803,pincode,2020,4
+116,110092,335783,pincode,2020,4
+117,110086,288308,pincode,2020,4
+118,560078,285544,pincode,2020,4
+119,121004,283882,pincode,2020,4
+120,201301,541127,pincode,2021,1
+121,110059,454201,pincode,2021,1
+122,560068,427525,pincode,2021,1
+123,421302,396179,pincode,2021,1
+124,500072,375272,pincode,2021,1
+125,122001,361360,pincode,2021,1
+126,110092,359376,pincode,2021,1
+127,110086,310419,pincode,2021,1
+128,121004,306230,pincode,2021,1
+129,560078,305721,pincode,2021,1
+130,201301,577428,pincode,2021,2
+131,110059,485328,pincode,2021,2
+132,560068,455417,pincode,2021,2
+133,421302,424376,pincode,2021,2
+134,500072,398987,pincode,2021,2
+135,122001,385555,pincode,2021,2
+136,110092,383095,pincode,2021,2
+137,110086,332618,pincode,2021,2
+138,121004,328000,pincode,2021,2
+139,560078,325334,pincode,2021,2
+140,201301,618043,pincode,2021,3
+141,110059,520096,pincode,2021,3
+142,560068,486170,pincode,2021,3
+143,421302,456284,pincode,2021,3
+144,500072,425197,pincode,2021,3
+145,122001,412737,pincode,2021,3
+146,110092,409520,pincode,2021,3
+147,110086,357590,pincode,2021,3
+148,121004,352312,pincode,2021,3
+149,560078,346840,pincode,2021,3
+150,201301,659549,pincode,2021,4
+151,110059,555449,pincode,2021,4
+152,560068,517115,pincode,2021,4
+153,421302,488443,pincode,2021,4
+154,500072,451595,pincode,2021,4
+155,122001,440178,pincode,2021,4
+156,110092,436075,pincode,2021,4
+157,110086,382858,pincode,2021,4
+158,121004,376910,pincode,2021,4
+159,560078,368213,pincode,2021,4
+160,201301,698600,pincode,2022,1
+161,110059,588266,pincode,2022,1
+162,560068,545827,pincode,2022,1
+163,421302,518716,pincode,2022,1
+164,500072,476073,pincode,2022,1
+165,122001,465984,pincode,2022,1
+166,110092,460951,pincode,2022,1
+167,110086,406863,pincode,2022,1
+168,121004,400283,pincode,2022,1
+169,560078,388154,pincode,2022,1
+170,201301,735907,pincode,2022,2
+171,110059,619737,pincode,2022,2
+172,560068,573310,pincode,2022,2
+173,421302,547501,pincode,2022,2
+174,500072,499269,pincode,2022,2
+175,122001,490709,pincode,2022,2
+176,110092,484816,pincode,2022,2
+177,110086,429566,pincode,2022,2
+178,121004,422488,pincode,2022,2
+179,560078,407066,pincode,2022,2
+180,201301,774591,pincode,2022,3
+181,110059,652328,pincode,2022,3
+182,560068,601656,pincode,2022,3
+183,421302,577754,pincode,2022,3
+184,500072,523196,pincode,2022,3
+185,122001,516313,pincode,2022,3
+186,110092,509260,pincode,2022,3
+187,110086,453393,pincode,2022,3
+188,121004,445822,pincode,2022,3
+189,201009,428994,pincode,2022,3
+190,201301,814008,pincode,2022,4
+191,110059,685596,pincode,2022,4
+192,560068,630255,pincode,2022,4
+193,421302,608005,pincode,2022,4
+194,500072,547282,pincode,2022,4
+195,122001,542209,pincode,2022,4
+196,110092,534009,pincode,2022,4
+197,110086,477514,pincode,2022,4
+198,121004,468607,pincode,2022,4
+199,201009,451153,pincode,2022,4
