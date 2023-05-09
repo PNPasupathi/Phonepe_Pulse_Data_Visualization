@@ -1,0 +1,6 @@
+mysql
+numpy
+pandas
+plotly
+streamlit
+streamlit-option-menu
