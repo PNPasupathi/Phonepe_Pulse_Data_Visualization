@@ -1,0 +1,5 @@
+mysql==0.0.3
+pandas==2.0.1
+plotly==5.14.1
+streamlit==1.22.0
+streamlit-option-menu==0.3.2
