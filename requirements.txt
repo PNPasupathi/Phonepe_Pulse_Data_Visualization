@@ -3,3 +3,4 @@ plotly~=5.14.1
 streamlit~=1.22.0
 streamlit-option-menu~=0.3.2
 mysql-connector-python~=8.0.33
+Babel~=2.12.1
